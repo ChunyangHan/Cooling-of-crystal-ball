@@ -1,1 +1,2 @@
 # Cooling-of-crystal-ball
+The cooling of crystal glass needs attention in the production process. Quick cooling is wanted to keep the cost lower but may cause the glass to break. A crystal ball with radius R shall be cooled down from 980∘C to room temperature. The temperature lowering in the oven takes place in a controlled way and depends on the adjusted temperature parameter T that starts at t = 0 until t = T according to

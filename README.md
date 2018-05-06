@@ -1,6 +1,6 @@
 # Cooling-of-crystal-ball
 The cooling of crystal glass needs attention in the production process. Quick cooling is wanted to keep the cost lower but may cause the glass to break. A crystal ball with radius R shall be cooled down from 980∘C to room temperature. The temperature lowering in the oven takes place in a controlled way and depends on the adjusted temperature parameter T that starts at t = 0 until t = T according to
-f (t) = 980e−3.9t∕T
+f (t) = 980e−3.9t∕T\\
 For t > T, we have f (t) = 980e−3.9 = 19.8, hence normal room temperature.
 The heat equation for a homogeneous sphere follows the PDE
 𝜕u/𝜕t= D/r*𝜕2(ru)/𝜕r2 , 0 < r < R, t > 0
